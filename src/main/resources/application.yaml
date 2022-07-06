@@ -1,0 +1,12 @@
+bdk:
+  host: HOST_URL
+  bot:
+    username: BOT_USERNAME
+    privateKey:
+      path: rsa/privatekey.pem
+
+  datafeed:
+    version: v2
+logging:
+  level:
+    com.symphony: debug
