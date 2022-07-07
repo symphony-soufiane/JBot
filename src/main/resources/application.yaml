@@ -6,7 +6,7 @@ bdk:
       path: rsa/privatekey.pem
 
   datafeed:
-    version: v2
+    version: v1
 logging:
   level:
     com.symphony: debug
