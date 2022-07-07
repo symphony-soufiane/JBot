@@ -1,7 +1,7 @@
 bdk:
   host: HOST_URL
   bot:
-    username: BOT_USERNAME
+    username: jbot
     privateKey:
       path: rsa/privatekey.pem
 
