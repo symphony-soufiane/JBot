@@ -1,12 +1,12 @@
 bdk:
-  host: HOST_URL
+  host: develop.symphony.com
   bot:
     username: bdk-integration-tests-worker-bot-TEST1
     privateKey:
       path: rsa/privatekey.pem
 
   datafeed:
-    version: v1
+    version: v2
 logging:
   level:
     com.symphony: debug
